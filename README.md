@@ -8,5 +8,10 @@ When: Every Monday, from 4 - 5 PM CST
 
 Where: GDC 5.302
 
+## Why do this?
 
+Thanks to the tech boom, CS students enjoy the privilege of high compensation when they join tech companies. 
+However, until that point, they may not have had any training or experience in dealing with large amounts of money. 
+Working at tech companies also involves things like Restricted Stock Units and vesting, which students may not be familiar with.
+This lecture series aims to close that gap and provide students with basic knowledge in financial literacy. 
 
