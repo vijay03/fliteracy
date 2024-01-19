@@ -2,11 +2,15 @@
 
 I will be using this page to collect notes and slides I'll be preparing for the lecture series of the same name at UT Austin. 
 
+Note that this is not an official course, and you do not get any credit for attending the lectures.
+
 ## Meeting Time (Spring 2024)
 
 When: Every Monday, from 4 - 5 PM CST
 
 Where: GDC 5.302
+
+Registration required: no (just show up!)
 
 ## Why do this?
 
