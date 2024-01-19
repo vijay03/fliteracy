@@ -15,3 +15,11 @@ However, until that point, they may not have had any training or experience in d
 Working at tech companies also involves things like Restricted Stock Units and vesting, which students may not be familiar with.
 This lecture series aims to close that gap and provide students with basic knowledge in financial literacy. 
 
+## Is there anything new here?
+
+No. All the information I'm presenting is available freely on the web, in various places.
+I am merely collecting this information together and presenting it in one place. 
+
+## Are the meetings recorded?
+
+No. We would like to encourage free Q n A during these meetings/lectures. So they are not recorded. 
