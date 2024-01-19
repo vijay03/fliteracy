@@ -5,6 +5,7 @@ I will be using this page to collect notes and slides I'll be preparing for the 
 ## Meeting Time (Spring 2024)
 
 When: Every Monday, from 4 - 5 PM CST
+
 Where: GDC 5.302
 
 
