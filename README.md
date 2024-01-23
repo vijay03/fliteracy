@@ -27,3 +27,11 @@ I am merely collecting this information together and presenting it in one place.
 ## Are the meetings recorded?
 
 No. We would like to encourage free Q n A during these meetings/lectures. So they are not recorded. 
+
+## Slides
+
+Jan 22 - [Introduction to the class, budgets, how to allocate money](https://docs.google.com/presentation/d/1E1SULO1BG4cf9ZiXHzA1H1hqsOQlHXpOoEdWwb8mt4w/edit?usp=sharing)
+
+## Resources 
+
+- [NerdWallet comparison of HYSA accounts](https://www.nerdwallet.com/best/banking/high-yield-online-savings-accounts)
