@@ -32,6 +32,7 @@ No. We would like to encourage free Q n A during these meetings/lectures. So the
 
  - Jan 22 - [Introduction to the class, budgets, how to allocate money](https://docs.google.com/presentation/d/1E1SULO1BG4cf9ZiXHzA1H1hqsOQlHXpOoEdWwb8mt4w/edit?usp=sharing)
 - Jan 29 - [Taxes and Credit](https://docs.google.com/presentation/d/1vjLHHrqlw0y2PK-s-v_w2LjDAHl4T707u9iMcIY9Acg/edit?usp=sharing)
+-  Feb 5 - [Retirement Accounts](https://docs.google.com/presentation/d/1vJqq4RhSbC4N42Q2y1k_Sj_WQ-xJcYEfS9vz1gkLrXw/edit?usp=sharing)
 
 ## Resources 
 
