@@ -34,6 +34,7 @@ No. We would like to encourage free Q n A during these meetings/lectures. So the
 - Jan 29 - [Taxes and Credit](https://docs.google.com/presentation/d/1vjLHHrqlw0y2PK-s-v_w2LjDAHl4T707u9iMcIY9Acg/edit?usp=sharing)
 -  Feb 5 - [Retirement Accounts](https://docs.google.com/presentation/d/1vJqq4RhSbC4N42Q2y1k_Sj_WQ-xJcYEfS9vz1gkLrXw/edit?usp=sharing)
 -  Feb 12 - [Investing Basics](https://docs.google.com/presentation/d/1L2P-FEFPKTVCON-3Pw42DNzIWcwPaySPH7h4F4gnFAQ/edit?usp=sharing)
+-  Feb 26 - [RSUs and equity compensation](https://docs.google.com/presentation/d/1jmPqhC9MvefIUk5e-3ehwAs--S59iF2TAyquPoNHpOk/edit?usp=sharing)
 
 ## Resources 
 
